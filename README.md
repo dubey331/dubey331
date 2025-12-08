@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am an **Embedded Systems Engineer** with hands-on experience in **IoT systems**, **AI-powered mechatronics**, and **biomedical device innovation**. I love building meaningful, user-centric products through **design thinking, rapid prototyping, and automation**.
+Embedded Systems Engineer with hands-on experience in IoT, AI-driven mechatronics, and biomedical innovation. Skilled in rapid prototyping, design thinking, and optimized development, with proven work across IIT projects and competitive tech programs.
 
 ### 🔬 **Biodesign Fellow – IIT Guwahati**
 - Identifying unmet clinical needs  
