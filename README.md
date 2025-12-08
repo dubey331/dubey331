@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Akash Dubey</strong></h1>
 
-<h3 align="center">Embedded Systems Engineer | AI & Automation Developer | Biodesign Fellow</h3>
+<h3 align="center">Embedded Systems Engineer | AI & Automation Developer </h3>
 
 <p align="center">
   <a href="https://github.com/akash-dubey"><img src="https://img.shields.io/github/followers/akash-dubey?label=Follow&style=social" /></a>
