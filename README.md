@@ -55,7 +55,7 @@
 ### 🧠 **AI & Image Processing**
 - OpenCV  
 - Grayscale & Edge Detection  
-- Automation Pipelines  
+- Object classification  
 
 ### 🛠 **Tools & Platforms**
 - MATLAB Simulink  
