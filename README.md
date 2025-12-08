@@ -1,74 +1,82 @@
-# 👋 Hi, I'm **Akash Dubey**
+![Banner](https://img.shields.io/badge/Embedded%20Engineer-Akash%20Dubey-blue?style=for-the-badge&logo=github)
 
-### **Embedded Systems Engineer | AI & Automation Developer | Biodesign Fellow**
+<h1 align="center">👋 Hi, I'm <strong>Akash Dubey</strong></h1>
 
-I’m an Embedded Engineer passionate about building intelligent embedded products, automation systems, and biomedical devices. With 3+ years of hands-on development, product design, and customer-centric prototyping experience, I enjoy transforming ideas into real-world solutions.
+<h3 align="center">Embedded Systems Engineer | AI & Automation Developer | Biodesign Fellow</h3>
 
-I’ve worked with institutes like **IIT Guwahati**, **IIT Palakkad (TECHIN)**, and **E-Cell SSTC**, leading projects in embedded systems, IoT, mechatronics, and AI-driven devices.
+<p align="center">
+  <a href="https://github.com/akash-dubey"><img src="https://img.shields.io/github/followers/akash-dubey?label=Follow&style=social" /></a>
+  <a href="mailto:aaaakashdubey070@gmail.com"><img src="https://img.shields.io/badge/Email-Akash%20Dubey-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/akash-dubey-34322520b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍🔬 **Biodesign Fellow – IIT Guwahati**
-  - Identified unmet clinical needs  
-  - Built and validated medical prototypes  
-  - Conducted clinical trials, user studies, and regulatory research  
+I am an **Embedded Systems Engineer** with hands-on experience in **IoT systems**, **AI-powered mechatronics**, and **biomedical device innovation**.  
+I love building meaningful, user-centric products through **design thinking, rapid prototyping, and automation**.
 
-- 🤖 **Project Lead – AI Automated Microscope (IIT Palakkad)**
-  - Improved system efficiency by **40%**
-  - Built autofocus, auto-scanning stage & OpenCV-based detection modules
-  - Worked with automation, CNC algorithms, Raspberry Pi & Arduino  
+### 🔬 **Biodesign Fellow – IIT Guwahati**
+- Identifying unmet clinical needs  
+- Developing medical device prototypes  
+- Clinical trials, user studies & regulatory awareness  
 
-- 🛠 **Technical & Innovation Lead – E-Cell SSTC**
-  - Guided multi-domain tech projects and student prototypes  
-  - Worked on IoT automation, PCB design, and embedded system projects  
+### 🤖 **Project Lead – AI Automated Microscope (TECHIN, IIT Palakkad)**
+- Improved efficiency by **40%**  
+- Built autofocus, auto-stage scanning & detection system  
+- Tools: OpenCV, Raspberry Pi, CNC algorithms  
+
+### 🛠 **Tech & Innovation Lead – E-Cell SSTC**
+- Mentored multi-domain student teams  
+- Built embedded & IoT products  
+- PCB design, ESP32 automation, WiFi systems  
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Programming**
+### 🔧 **Programming**
 - Embedded C  
 - Python  
-- HTML & CSS  
+- HTML, CSS  
 
-### **Embedded / Hardware**
+### ⚡ **Embedded & Hardware**
 - ESP32  
 - Raspberry Pi  
 - Arduino Uno  
-- PCB Design  
-- Sensors, Actuators, IoT Interfacing  
-- CNC mechanisms & Automation  
+- PCB Designing  
+- Sensors, Actuators & IoT  
+- Automation & CNC mechanisms  
 
-### **AI / Image Processing**
+### 🧠 **AI & Image Processing**
 - OpenCV  
 - Grayscale & Edge Detection  
 - Automation Pipelines  
 
-### **Tools & Platforms**
+### 🛠 **Tools & Platforms**
 - MATLAB Simulink  
 - GitHub  
-- IBM Watson  
 - MySQL  
-- MS Office, LaTeX  
-- Windows & Ubuntu  
+- IBM Watson  
+- LaTeX  
+- Windows / Ubuntu  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st – **Autodesk Design Competition (IIT Palakkad)**  
-- 🥉 3rd – **Covacathon (IIT Palakkad)**  
-- 🥉 3rd – **Smart Solar Agriculture (VITTBI & MeITy)**  
-- **Winner / Finalist** in national competitions:
+- 🥇 **1st Place – Autodesk Design Competition (IIT Palakkad)**  
+- 🥉 **3rd Place – Covacathon (IIT Palakkad)**  
+- 🥉 **3rd Place – Smart Solar Agriculture (VITTBI & MeITy)**  
+- Finalist in:
   - Smart India Hackathon  
   - HackBMU  
   - Toython (AICTE)  
   - Nirmaan SISTEC  
   - Agri Shield  
 - 🏅 **Innovator of the Year – SSTC**  
-- 🏅 Honored by **IIT Guwahati** during IDE Bootcamp (AICTE & MoE)  
+- 🏅 Recognized at **IIT Guwahati IDE Bootcamp**  
 
 ---
 
@@ -76,48 +84,47 @@ I’ve worked with institutes like **IIT Guwahati**, **IIT Palakkad (TECHIN)**, 
 
 - Embedded C & ARM Cortex – NIELIT Calicut  
 - Best Electronics Circuit Design – IIT Palakkad  
-- MATLAB Simulink Basics  
+- Basics of MATLAB Simulink  
 - Data Analytics – IIT Bombay  
 - Google Analytics  
-- RS, GIS & GNSS – ISRO IIRS  
+- Basics of RS, GIS & GNSS – ISRO IIRS  
 
 ---
 
 ## 🔬 Highlight Projects
 
-### **AI-Powered Automated Microscope**
-- Improved processing efficiency by 40%  
-- Autofocus + Auto-Scanning Stage + UI  
-- Raspberry Pi, OpenCV, CNC algorithms  
+### 🔭 **AI-Powered Automated Microscope**
+- Autofocus, auto-scanning stage, image processing  
+- Raspberry Pi + OpenCV + CNC  
 
-### **Biomedical Device Development (IIT Guwahati)**
-- End-to-end medical device prototyping  
-- Customer discovery, clinical validation, compliance  
+### 🧪 **Biomedical Device Innovation (IIT Guwahati)**
+- Ideation → User Need → Prototype → Trial  
 
-### **IoT Automation using ESP32**
-- Private Wi-Fi hotspot communication  
-- Embedded C, cloud integration  
+### 🌐 **ESP32 IoT Automation**
+- Private hotspot communication  
+- Cloud integration  
 
 ---
 
-## 💡 Soft Skills
+## 📈 GitHub Stats
 
-- Analytical Problem Solving  
-- Research & Data Analysis  
-- Team Leadership  
-- Product Design Thinking  
-- Entrepreneurial Approach  
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/akash-dubey-34322520b/  
-- **Email:** aaaakashdubey070@gmail.com  
-- **GitHub:** https://github.com/akash-dubey  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akash-dubey&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-dubey&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting!**  
-Feel free to explore my repositories or reach out for collaboration on embedded systems, automation, and AI-driven hardware projects.
+## 🧑‍💻 Connect With Me
+
+- 🔗 LinkedIn: **https://www.linkedin.com/in/akash-dubey-34322520b/**  
+- 📧 Email: **aaaakashdubey070@gmail.com**  
+- 🐙 GitHub: **https://github.com/akash-dubey**
+
+---
+
+## ⭐ Thanks for Visiting!
+
+If you like my projects, consider giving a ⭐ or connecting with me.  
+I’m always open to collaboration in **embedded systems, automation, and AI-powered products**.
 
