@@ -94,21 +94,6 @@
 
 ---
 
-## 🔬 Highlight Projects
-
-### 🔭 **AI-Powered Automated Microscope**
-- Autofocus, auto-scanning stage, image processing  
-- Raspberry Pi + OpenCV + CNC  
-
-### 🧪 **Biomedical Device Innovation (IIT Guwahati)**
-- Ideation → User Need → Prototype → Trial  
-
-### 🌐 **ESP32 IoT Automation**
-- Private hotspot communication  
-- Cloud integration  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
