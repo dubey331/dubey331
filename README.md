@@ -26,30 +26,31 @@
 
 ### 🤖 **Project Lead – AI Automated Microscope (TECHIN, IIT Palakkad)**
 - Improved efficiency by **40%**  
-- Built autofocus, auto-stage scanning & detection system  
-- Tools: OpenCV, Raspberry Pi, CNC algorithms  
+- Developed autofocus, auto-stage scanning & detection system  
+- Tools: OpenCV, Raspberry Pi, CNC algorithms, I2C, PWM, IOT, ML
 
 ### 🛠 **Tech & Innovation Lead – E-Cell SSTC**
 - Mentored multi-domain student teams  
-- Built embedded & IoT products  
-- PCB design, ESP32 automation, WiFi systems  
+- Built embedded & IoT projects 
+- PCB design, Arduino, ESP32 automation, WiFi systems
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🔧 **Programming**
-- Embedded C  
+- Embedded C, C++
 - Python  
-- HTML, CSS  
+- HTML, CSS
 
 ### ⚡ **Embedded & Hardware**
 - ESP32  
 - Raspberry Pi  
 - Arduino Uno  
-- PCB Designing  
+- PCB Designing
+- Embedded system design 
 - Sensors, Actuators & IoT  
-- Automation & CNC mechanisms  
+- Automation & CNC mechanisms
 
 ### 🧠 **AI & Image Processing**
 - OpenCV  
