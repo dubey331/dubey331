@@ -26,7 +26,7 @@
 
 ### 🤖 **Project Lead – AI Automated Microscope (TECHIN, IIT Palakkad)**
 - Improved efficiency by **40%**  
-- Developed autofocus, auto-stage scanning & detection system  
+- Developed autofocus, auto-stage scanning & ML detection system  
 - Tools: OpenCV, Raspberry Pi, CNC algorithms, I2C, PWM, IOT, ML
 
 ### 🛠 **Tech & Innovation Lead – E-Cell SSTC**
